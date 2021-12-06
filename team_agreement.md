@@ -80,8 +80,8 @@
   - We will make an organization for that and make them contribute as Admins.
 
 - What is your git flow?
-  - **trunk-based workflow**
-  - A separate branch for every feature and a collective branch called "develop" will combine all team work daily
+  - **Feature-Branch**
+  - By creating and working on a separate branches for each feature,  then merging that branch to the develop/production branch before merging it with the main at the end of the project.
 - Will you be using a PR review workflow? If that's the case, consider this:
   - How many people must review a PR?
     - Two people, the owner of the pull request and another member
