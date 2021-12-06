@@ -7,7 +7,7 @@
 
 # We provide a Team Agreement for our final project work in the following link:
 
-## **[Team Agreement](team_agreement)**
+## **[Team Agreement](team_agreement.md)**
 
 # We provide a pitch for our desired projects list in the following link:
 
